@@ -1,0 +1,6 @@
+{
+  "name": "County Budget Watchdog",
+  "description": "An interactive tool for citizens to analyze county budget documents, extract key allocations, and ask questions in simple language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
