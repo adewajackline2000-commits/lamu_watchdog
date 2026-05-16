@@ -55,7 +55,7 @@ The application operates on a **Full-Stack AI Architecture** designed for high-s
 ---
 
 ## 👥 The Team
-- **[Team 18]**
+- **Team 18**
 
 ---
 
