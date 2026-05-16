@@ -55,8 +55,7 @@ The application operates on a **Full-Stack AI Architecture** designed for high-s
 ---
 
 ## 👥 The Team
-- **[Your Name/Team Name]**: Lead Developer & Designer
-  - *Role*: Full-stack development, AI Prompt Engineering, and UI/UX Design.
+- **[Team 18]**
 
 ---
 
